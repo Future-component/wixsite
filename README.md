@@ -1,7 +1,7 @@
 
 # Wixsite
 
-> page site quickly set up
+> Page site quickly set up. The project was developed on the react framework. Since the previous project used dedeCMS, it was very difficult to maintain, so we had to develop better sites.Wixsite was born for this reason.
 
 ## Local deployment
 
