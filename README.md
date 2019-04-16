@@ -34,6 +34,8 @@ todo
 
 ## Technical points
 
+From a technical point of view, the following technical points should be considered when designing and developing a page visualization setup tool:
+
 * Componentization of pages
 * The page template
 * Visual page editing
